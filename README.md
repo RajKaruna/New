@@ -7,4 +7,8 @@ python 2.6+ and Django === 1.11.1 should work.
     $ pip install -r requirements.txt
     $ python manage.py runserver
 
-![alt text](https://github.com/RajKaruna/New/blob/master/Screenshot%20from%202018-07-27%2012-30-44.png)
+![alt text](https://github.com/RajKaruna/New/blob/master/Screenshot%20from%202018-07-27%2012-31-04.png)
+
+
+
+
